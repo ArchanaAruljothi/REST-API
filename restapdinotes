@@ -1,0 +1,20 @@
+step 12: use of body parser library 
+it allows us to fetch url encoded data as well as json data,It do not support file.
+
+
+CORS Error:
+c-cross 
+o-origin
+R-resource,
+S-sharing
+-beacuse of security reason this error
+
+user-Credentials of mangodb
+
+
+archanaaarul
+78VNtsxkIQdlszo6
+mongodb+srv://archanaaarul:78VNtsxkIQdlszo6@cluster0.eufyll2.mongodb.net/
+
+male request to mangodb
+*mangodb request 
